@@ -1,0 +1,16 @@
+AÇAÍ DA JULY — PUBLICAÇÃO GRATUITA VIA GITHUB PAGES
+
+1. Crie uma conta em https://github.com (se ainda não tiver).
+2. Clique em New repository e dê o nome acai-da-july; escolha Public e Create repository.
+3. Clique em Add file > Upload files, DESCOMPACTE ESTE ZIP no computador e envie o CONTEÚDO da pasta acai-da-july-app (index.html, app.js, config.js, style.css, sw.js, manifest.webmanifest, .nojekyll, assets/ etc.). ATENÇÃO: index.html deve estar na raiz do repositório, e não dentro de uma subpasta.
+4. Clique em Commit changes.
+5. No repositório, acesse Settings > Pages > Build and deployment > Source: Deploy from a branch > Branch: main > /(root) > Save.
+6. Aguarde a publicação e encontre o endereço em Settings > Pages. Normalmente fica https://SEU-USUARIO.github.io/acai-da-july/ — este é somente um modelo de endereço, NÃO É LINK ATIVO ANTES DE PUBLICAR.
+7. Abra o site e teste o pedido completo, inclusive o envio ao WhatsApp (tocando em Enviar).
+8. Depois da publicação, gere QR Code com a URL REAL publicada. Confira a URL e teste com outro celular antes de imprimir cartazes.
+
+CONFIGURAÇÃO ATUAL: Açaí da July; Norte Village; Bloco 3; entrega no apartamento; WhatsApp (21) 99588-6950.
+
+IMPORTANTE: Pix/cartão no aplicativo ainda NÃO funcionam. O modo disponível nesta versão é mensagem de pedido ao WhatsApp. O checkout integrado depende de conta e integração técnica com provedor de pagamento, além de processamento seguro. Este site não registra pedidos em servidor e não tem painel do vendedor. GitHub Pages é público: nunca coloque informações privadas de moradores, tokens ou senhas nos arquivos publicados. Faça um teste real com a July antes de divulgar.
+
+Para alterar cardápio, telefone ou blocos, modifique os arquivos e envie nova versão ao repositório.
